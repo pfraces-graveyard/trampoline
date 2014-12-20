@@ -2,15 +2,13 @@
   "name": "trampoline",
   "version": "0.1.0",
   "description": "partial application without increasing the call stack",
+  "repository": "https://github.com/pfraces-wip/trampoline.git",
   "main": "trampoline.js",
   "dependencies": {},
   "devDependencies": {
     "expect.js": "^0.3.1",
     "gulp": "^3.8.10",
     "gulp-mocha": "^2.0.0"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Pau Fracés",
   "license": "MIT"
